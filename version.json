@@ -1,5 +1,5 @@
 {
-  "versionCode": 20,
-  "version": "2.9",
-  "notes": "安装包默认从 GitHub 下载，失败后依次尝试 Gitee 和 CDN，下载窗口显示当前线路。"
+  "versionCode": 21,
+  "version": "3.0",
+  "notes": "默认从 Gitee 检查更新；下载前可选择 Gitee 或 GitHub，默认选中 Gitee。移除 CDN 下载渠道。"
 }
