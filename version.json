@@ -1,5 +1,5 @@
 {
-  "notes": "应用内下载安装包时优先使用 GitHub，失败后自动尝试 CDN。",
-  "version": "2.8",
-  "versionCode": 19
+  "versionCode": 20,
+  "version": "2.9",
+  "notes": "安装包默认从 GitHub 下载，失败后依次尝试 Gitee 和 CDN，下载窗口显示当前线路。"
 }
